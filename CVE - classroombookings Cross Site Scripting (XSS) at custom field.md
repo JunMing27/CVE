@@ -6,7 +6,7 @@
 
 **Official Website**:  https://www.classroombookings.com/
 
-**Version**: 2.14.0.
+**Version**: 2.8.6
 
 **Affected Endpoint**:  https://site/rooms/fields
 
