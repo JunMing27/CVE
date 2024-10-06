@@ -1,4 +1,4 @@
-# CVE {Code} - classroombookings Cross Site Scripting (XSS) at custom field
+# CVE {Code} - classroombookings Cross Site Scripting (XSS) at custom field via Administrator Dashboard
 
 > CVE Description
 
@@ -16,7 +16,7 @@
 
 ## Demonstration
 
-Step 1: Place the XSS payload at the name field
+Step 1: Place the XSS payload at the name field as an Administrator
 ![image](https://github.com/user-attachments/assets/71a6b61b-e654-48f6-b35e-606620217c6e)
 
 Step 2: Trigger the XSS by clicking any room at https://site/rooms
