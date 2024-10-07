@@ -1,4 +1,4 @@
-# CVE {Code} - classroombookings Cross Site Scripting (XSS) at create and edit session page via Administrator Dashboard
+# CVE {Code} - classroombookings Stored Cross Site Scripting (XSS) at create and edit session page via Administrator Dashboard
 
 > CVE Description
 	Insufficient validation on session add/edit page leads to cross-site-scripting at the Administrator Dashboard
