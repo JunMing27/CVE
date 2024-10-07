@@ -1,4 +1,4 @@
-# CVE {Code} - classroombookings Cross Site Scripting (XSS) at custom field via Administrator Dashboard
+# CVE {Code} - classroombookings Stored Cross Site Scripting (XSS) at custom field via Administrator Dashboard
 
 > CVE Description
 
