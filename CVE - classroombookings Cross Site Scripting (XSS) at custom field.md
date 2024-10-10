@@ -1,4 +1,4 @@
-# CVE {Code} - classroombookings Stored Cross Site Scripting (XSS) at custom field via Administrator Dashboard
+# CVE-2024-9806 - classroombookings Stored Cross Site Scripting (XSS) at custom field via Administrator Dashboard
 
 > CVE Description
 
